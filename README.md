@@ -18,8 +18,8 @@ NumPy
 PIL (Pillow)
 
 Demo
-![Demo Image](demo1.png)
 ![Demo Image](demo2.png)
+![Demo Image](demo1.png)
 ![Demo Image](demo3.png)
 ![Demo Image](demo4.png)
 
