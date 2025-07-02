@@ -10,12 +10,12 @@ Features
 
 Tech Stack
 
-Python
-TensorFlow / Keras
-Streamlit
-OpenCV
-NumPy
-PIL (Pillow)
+1.Python
+2.TensorFlow / Keras
+3.Streamlit
+4.OpenCV
+5.NumPy
+6.PIL (Pillow)
 
 Demo
 ![Demo Image](demo2.png)
