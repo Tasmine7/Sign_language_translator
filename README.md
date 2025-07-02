@@ -3,19 +3,19 @@ An AI-powered web application that translates hand sign images into English alph
 
 Features
 
-1. Classifies hand gestures into corresponding English alphabets (A-Y excluding J and Z)
-2. Achieves over 92% accuracy
-3. Interactive, user-friendly web app built with Streamlit
-4. Real-time image upload and prediction
+- Classifies hand gestures into corresponding English alphabets (A-Y excluding J and Z)
+-  Achieves over 92% accuracy
+-   Interactive, user-friendly web app built with Streamlit
+-   Real-time image upload and prediction
 
-## Tech Stack
+Tech Stack
 
-1.Python
-2.TensorFlow / Keras
-3.Streamlit
-4.OpenCV
-5.NumPy
-6.PIL (Pillow)
+- Python
+- TensorFlow / Keras
+- Streamlit
+- OpenCV
+- NumPy
+- PIL (Pillow)
 
 Demo
 ![Demo Image](demo2.png)
