@@ -8,7 +8,7 @@ Features
 3. Interactive, user-friendly web app built with Streamlit
 4. Real-time image upload and prediction
 
-# Tech Stack
+Tech Stack
 
 Python
 TensorFlow / Keras
