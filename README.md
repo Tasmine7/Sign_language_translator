@@ -17,6 +17,9 @@ OpenCV
 NumPy
 PIL (Pillow)
 
+Demo
+![Demo Image](demo1.png)
+
 Dataset
 Sign Language MNIST available on Kaggle
 https://www.kaggle.com/datamunge/sign-language-mnist
