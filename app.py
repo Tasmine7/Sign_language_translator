@@ -22,3 +22,4 @@ if uploaded_file is not None:
     predicted_class = np.argmax(prediction)
     st.write(f"### Predicted Letter: *{class_labels[predicted_class]}*")
 
+
