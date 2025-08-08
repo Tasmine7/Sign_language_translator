@@ -23,3 +23,4 @@ if uploaded_file is not None:
     st.write(f"### Predicted Letter: *{class_labels[predicted_class]}*")
 
 
+
